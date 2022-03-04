@@ -2,7 +2,7 @@
 //  CircleView.swift
 //  iOSApp
 //
-//  Created by Rodrigo Cian Berrios on 15/04/2021.
+//  Created by Cristian Carlassare.
 //
 
 import UIKit

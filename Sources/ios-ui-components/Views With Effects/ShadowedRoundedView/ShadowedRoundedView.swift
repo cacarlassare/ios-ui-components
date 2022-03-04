@@ -2,7 +2,7 @@
 //  ShadowedRoundedView.swift
 //  
 //
-//  Created by Rodrigo Cian Berrios on 08/06/2021.
+//  Created by Cristian Carlassare.
 //
 
 import UIKit

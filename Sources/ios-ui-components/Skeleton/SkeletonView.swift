@@ -2,7 +2,7 @@
 //  SkeletonView.swift
 //  
 //
-//  Created by Rodrigo Cian Berrios on 06/08/2021.
+//  Created by Cristian Carlassare.
 //
 
 import UIKit

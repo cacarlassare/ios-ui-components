@@ -2,7 +2,7 @@
 //  DesignableUIViews.swift
 //
 //
-//  Created by Cristian Carlassare on 15/12/2020.
+//  Created by Cristian Carlassare.
 //
 
 import UIKit

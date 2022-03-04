@@ -2,7 +2,7 @@
 //  CustomSegmentedControl.swift
 //  
 //
-//  Created by Natu Brasesco on 19/05/2021.
+//  Created by Cristian Carlassare.
 //
 
 import UIKit

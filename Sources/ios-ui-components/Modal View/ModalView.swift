@@ -2,7 +2,7 @@
 //  ModalView.swift
 //  iOSApp
 //
-//  Created by Ivan Gomez on 03/05/2021.
+//  Created by Cristian Carlassare.
 //
 
 import UIKit

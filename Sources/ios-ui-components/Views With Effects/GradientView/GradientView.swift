@@ -2,7 +2,7 @@
 //  GradientView.swift
 //  
 //
-//  Created by Rodrigo Cian Berrios on 25/11/2020.
+//  Created by Cristian Carlassare.
 //
 
 import UIKit

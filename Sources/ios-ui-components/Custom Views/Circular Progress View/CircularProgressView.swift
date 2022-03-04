@@ -2,7 +2,7 @@
 //  CircularProgressView.swift
 //  
 //
-//  Created by Natu Brasesco on 17/08/2021.
+//  Created by Cristian Carlassare.
 //
 
 import UIKit

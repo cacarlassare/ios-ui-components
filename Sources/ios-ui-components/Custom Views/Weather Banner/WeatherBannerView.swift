@@ -2,7 +2,7 @@
 //  WeatherBannerView.swift
 //  
 //
-//  Created by Natu Brasesco on 21/09/2021.
+//  Created by Cristian Carlassare.
 //
 
 import UIKit
